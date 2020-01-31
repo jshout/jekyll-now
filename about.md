@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nature loving writer, gardner, and photographer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+System admin turned writer / photographer
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[joe@joeshout.com](mailto:joe@joeshout.com)
